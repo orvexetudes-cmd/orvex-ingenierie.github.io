@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://orvex-ingenierie.github.io/sitemap.xml
+Sitemap: https://orvexetudes-cmd.github.io/orvex-ingenierie.github.io/sitemap.xml
